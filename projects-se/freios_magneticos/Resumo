@@ -1,0 +1,9 @@
+O freio magnético é um experimento simples e didático que pode ser facilmente recriado e estudado, utilizando-se apenas
+um tubo metálico (não ferromagnético) e um magneto. O experimento consiste em abandonar o magneto dentro do tubo metálico
+e verificar que o tempo de queda do magneto dentro do tubo é diferente do que, quando abandonado fora deste. 
+Essa diferença é explicada através de importantes conceitos eletromagnéticos, como magnetismo, campos magnéticos
+(gerados pelos magnetos e a sua variação durante a queda no tubo), lei de Indução Magnética de Faraday e lei de Lenz.
+
+O projeto tem por objetivo medir a velocidade de queda de objetos imantados e não imantados através de um 
+tubo não ferro-magnético a fim de mostrar os efeitos que o magnetismo exerce na queda dos mesmos e assim fazer
+o cálculo da média, desvio padrão, variância e aceleração dos objetos.
